@@ -1,6 +1,6 @@
 /*
 NAME: Talike Bennett
-EMPLID: 23778852
+HM3, Header File (Functions)
 */
 
 #ifndef FUNCTIONS_H
